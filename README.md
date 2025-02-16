@@ -18,4 +18,6 @@ The **Click Counter App** is a simple JavaScript project that counts how many ti
 
 ## Example
 
-![Primeira aula JS](./images/Primeira-aula-Js.gif)
+## Example
+![Primeira aula JS](./Primeira-aula-Js.gif)
+
