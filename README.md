@@ -17,7 +17,5 @@ The **Click Counter App** is a simple JavaScript project that counts how many ti
 - **JavaScript** – Handles button clicks, updates the counter, and changes text color dynamically.  
 
 ## Example
-
-## Example
 ![Primeira aula JS](./Primeira-aula-Js.gif)
 
